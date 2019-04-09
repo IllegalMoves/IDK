@@ -1,5 +1,4 @@
 # IDK
-Cheese
 6var board,
   game = new Chess();
 
